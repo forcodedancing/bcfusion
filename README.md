@@ -24,7 +24,7 @@ the bound assets.
 | Asset | Symbol | Bind Status | Media | Website | Contact Email |
 |-|-|-|-|-|-|
 | AAVE | AAVE-8FA | [✅Yes](https://bscscan.com/address/0xfb6115445Bff7b52FeB98650C87f44907E58f802) |  |  |  | 
-| ADA | ADA-9F4 | [✅Yes](https://bscscan.com/address/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47) | [Binance Research](https://research.binance.com/en/projects/cardano)  |  | [Product@binance.com](mailto:Product@binance.com) | 
+| ADA | ADA-9F4 | [✅Yes](https://bscscan.com/address/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47) |  |  |  | 
 | ALPACA | ALPACA-405 | [✅Yes](https://bscscan.com/address/0x8F0528cE5eF7B51152A59745bEfDD91D97091d2F) |  |  |  | 
 | ANKR | ANKR-E97 | [✅Yes](https://bscscan.com/address/0xf307910A4c7bbc79691fD374889b36d8531B08e3) | [Twitter](https://twitter.com/ankrnetwork?lang=en) [Medium](https://t.me/ankrnetwork) [Telegram](https://t.me/ankrnetwork) [Binance Research](https://research.binance.com/en/projects/ankr-network)  | [https://www.ankr.com](https://www.ankr.com) |  | 
 | ARN | ARN-71B | [✅Yes](https://bscscan.com/address/0xBA5F11b16B155792Cf3B2E6880E8706859A8AEB6) | [Telegram](https://t.me/aeronaero) [Reddit](https://www.reddit.com/r/AeronAero/) [Medium](https://medium.com/@aeronaero) [Youtube](https://www.youtube.com/channel/UC5kHSnnbz8epwZOqVPci98w) [Twitter](https://twitter.com/aeron_aero) [Facebook](https://www.facebook.com/aeronpublic) [Coinmarketcap](https://coinmarketcap.com/currencies/aeron) [Binance Info](https://info.binance.com/en/currencies/aeron) [Github](https://github.com/aeronaero/aeron) [Binance Research](https://research.binance.com/en/projects/aeron)  | [https://aeron.aero](https://aeron.aero) | [info@aeron.aero](mailto:info@aeron.aero) | 
@@ -49,7 +49,7 @@ the bound assets.
 | BXD | BXD-745 | [✅Yes](https://bscscan.com/address/0xcae74533e8605a87564982c03f63Ce44177f1277) |  |  |  | 
 | CAKE | CAKE-435 | [✅Yes](https://bscscan.com/address/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82) | [Telegram](https://t.me/pancakeswap) [Medium](https://pancakeswap.medium.com/) [Binance Research](https://research.binance.com/en/projects/pancakeswap) [Twitter](https://twitter.com/pancakeswap) [Github](https://github.com/pancakeswap)  | [https://pancakeswap.finance/](https://pancakeswap.finance/) |  | 
 | CAN | CAN-677 | [✅Yes](https://bscscan.com/address/0x007EA5C0Ea75a8DF45D288a4debdD5bb633F9e56) | [Telegram]( https://t.me/canyacoin) [Twitter]( https://twitter.com/canyacoin) [Facebook](https://www.facebook.com/CanYaCoin/) [Medium](http://www.medium.com/CanYaCoin)  | [ https://canya.io/]( https://canya.io/) |  | 
-| CAS | CAS-167 | [✅Yes](https://bscscan.com/address/0x780207B8C0Fdc32cF60E957415bFa1f2d4d9718c) | [Medium](https://medium.com/cashaa) [Twitter](https://twitter.com/CashaaLtd) [Telegram](https://t.me/cashaanews)  | [https://cashaa.com/](https://cashaa.com/) |  | 
+| CAS | CAS-167 | [✅Yes](https://bscscan.com/address/0x780207B8C0Fdc32cF60E957415bFa1f2d4d9718c) |  |  |  | 
 | CBIX | CBIX-3C9 | [✅Yes](https://bscscan.com/address/0x34681C1035F97E1eDcccec5f142e02FF81a3A230) |  |  |  | 
 | CBM | CBM-4B2 | [✅Yes](https://bscscan.com/address/0x61a97C4914C43f8BD98D01a99418E826C80AfAdC) | [Telegram](https://t.me/aeronaero) [Reddit](https://www.reddit.com/r/AeronAero/) [Medium](https://medium.com/@aeronaero) [Twitter](https://twitter.com/aeron_aero) [Facebook](https://www.facebook.com/aeronpublic) [Github](https://github.com/aeronaero/aeron)  | [https://cryptobonusmiles.com](https://cryptobonusmiles.com) | [info@cryptobonusmiles.com](mailto:info@cryptobonusmiles.com) | 
 | COCOS | COCOS-CED | [✅Yes](https://bscscan.com/address/0xAb301DaE71f5B386C566f484e636Aee60318F12F) |  |  |  | 
@@ -77,7 +77,7 @@ the bound assets.
 | IOTX | IOTX-0ED | [✅Yes](https://bscscan.com/address/0x9678E42ceBEb63F23197D726B29b1CB20d0064E5) | [Binance Research](https://research.binance.com/en/projects/iotx)  |  | [Product@binance.com](mailto:Product@binance.com) | 
 | IRIS | IRIS-D88 | [✅Yes](https://bscscan.com/address/0x05C50a62b0b87bE1fFB1Cf3b77d9eDBa834ef6f7) | [Telegram](https://t.me/irisnetwork) [Medium](https://medium.com/irisnet-blog) [Twitter](https://twitter.com/irisnetwork) [Coinmarketcap](https://coinmarketcap.com/currencies/irisnet/) [Binance Info](https://info.binance.com/en/currencies/irisnet) [Github](https://github.com/irisnet) [Binance Research](https://research.binance.com/en/projects/irisnet)  | [https://www.irisnet.org/](https://www.irisnet.org/) | [operation@irisnet.org](mailto:operation@irisnet.org) | 
 | LINK | LINK-AAD | [✅Yes](https://bscscan.com/address/0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD) | [Binance Research](https://research.binance.com/en/projects/chainlink)  |  | [Product@binance.com](mailto:Product@binance.com) | 
-| LTC | LTC-F07 | [✅Yes](https://bscscan.com/address/0x4338665CBB7B2485A8855A139b75D5e34AB0DB94) | [Binance Research](https://research.binance.com/en/projects/litecoin)  |  | [Product@binance.com](mailto:Product@binance.com) | 
+| LTC | LTC-F07 | [✅Yes](https://bscscan.com/address/0x4338665CBB7B2485A8855A139b75D5e34AB0DB94) |  |  |  | 
 | LTO | LTO-BDF | [✅Yes](https://bscscan.com/address/0x857B222Fc79e1cBBf8Ca5f78CB133d1b7CF34BBd) |  | [https://lto.network](https://lto.network) |  | 
 | MDT | MDT-14A | [✅Yes](https://bscscan.com/address/0x668DB7aa38eaC6B40c9D13dBE61361DC4c4611d1) | [Coinmarketcap](https://coinmarketcap.com/currencies/measurable-data-token/) [Binance Research](https://research.binance.com/en/projects/measurable-data-token) [Twitter](https://twitter.com/MeasurableData) [Telegram](https://t.me/measurabledata) [Medium](https://medium.com/measurabledata) [Github](https://github.com/measurabledatatoken) [Reddit](https://www.reddit.com/r/MeasurableDataToken/) [Youtube](https://www.youtube.com/channel/UCzm2b0lFWk9OApwvRZGb1Fw) [Linkedin](https://www.linkedin.com/company/measurable/about/)  | [https://mdt.io/](https://mdt.io/) | [token@mdt.io](mailto:token@mdt.io) | 
 | MITH | MITH-C76 | [✅Yes](https://bscscan.com/address/0x304aA6B8215eaF3EABB2149ffC842205676FCe36) | [Facebook](https://www.facebook.com/MithrilOfficial/) [Twitter](https://twitter.com/MithrilOfficial) [Medium](https://medium.com/mithriltoken) [Reddit](https://www.reddit.com/r/MithrilToken)  | [https://mith.io/](https://mith.io/) |  | 
@@ -103,7 +103,7 @@ the bound assets.
 | TEST | TEST-825 | [✅Yes](https://bscscan.com/address/0x39c0308fB2221Ff4c3485C2817fF126Bfb9726f6) |  |  |  | 
 | TESTCAKE | TESTCAKE-951 | [✅Yes](https://bscscan.com/address/0x5BF7CF80f53083cdcb5e651Ae367B4449826E0B9) |  |  |  | 
 | TKO | TKO-DF1 | [✅Yes](https://bscscan.com/address/0x9f589e3eabe42ebC94A44727b3f3531C0c877809) |  |  |  | 
-| TWT | TWT-8C2 | [✅Yes](https://bscscan.com/address/0x4B0F1812e5Df2A09796481Ff14017e6005508003) | [Telegram](https://t.me/trust_announcements) [Reddit](https://www.reddit.com/r/trustapp/) [Youtube](https://www.youtube.com/channel/UCrYnRK55nYUDd6flEZ2Kf6g) [Twitter](https://twitter.com/trustwalletapp) [Facebook](https://facebook.com/trustwalletapp) [Github](https://github.com/trustwallet)  | [https://trustwallet.com/](https://trustwallet.com/) | [support@trustwallet.com](mailto:support@trustwallet.com) | 
+| TWT | TWT-8C2 | [✅Yes](https://bscscan.com/address/0x4B0F1812e5Df2A09796481Ff14017e6005508003) |  |  |  | 
 | UNFI | UNFI-FB7 | [✅Yes](https://bscscan.com/address/0xA7cA04F7602cD7A939d3E4827F442f48cF8E9daD) |  |  |  | 
 | UNI | UNI-DD8 | [✅Yes](https://bscscan.com/address/0xBf5140A22578168FD562DCcF235E5D43A02ce9B1) | [Binance Research](https://research.binance.com/en/projects/uniswap)  |  | [Product@binance.com](mailto:Product@binance.com) | 
 | USDC | USDC-CD2 | [✅Yes](https://bscscan.com/address/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d) | [Binance Research](https://research.binance.com/en/projects/usd-coin)  |  | [Product@binance.com](mailto:Product@binance.com) | 
@@ -112,12 +112,12 @@ the bound assets.
 | VAI | VAI-B2D | [✅Yes](https://bscscan.com/address/0x4BD17003473389A42DAF6a0a729f6Fdb328BbBd7) |  |  |  | 
 | VOTE | VOTE-FD4 | [✅Yes](https://bscscan.com/address/0x6B574beb42bFa9701Ab383fAF0EE02CDBEca3Ea5) | [Telegram](https://t.me/agorablockchain) [Reddit](https://www.reddit.com/r/agora) [Medium](https://medium.com/agorablockchain) [Twitter](https://twitter.com/AgoraBlockchain) [Linkedin](https://www.linkedin.com/company/agorablockchain/)  | [https://agora.vote/](https://agora.vote/) | [ICO@agora.vote](mailto:ICO@agora.vote) | 
 | WNAV | WNAV-D49 | [✅Yes](https://bscscan.com/address/0xBFEf6cCFC830D3BaCA4F6766a0d4AaA242Ca9F3D) |  |  |  | 
-| WRX | WRX-ED1 | [✅Yes](https://bscscan.com/address/0x2a459DD33f05Ed8EA9584505Cf04698BE5654e6d) | [Telegram](https://t.me/wazirx) [Medium](https://medium.com/wazirx) [Youtube](https://youtube.com/wazirx) [Twitter](https://twitter.com/wazirxindia) [Facebook](https://www.facebook.com/wazirx) [Coinmarketcap](https://coinmarketcap.com/exchanges/wazirx) [Linkedin](https://www.linkedin.com/company/wazirx) [Github](https://github.com/wazirx) [Binance Research](https://research.binance.com/en/projects/wazirx)  | [https://wazirx.com](https://wazirx.com) | [dev@wazirx.com](mailto:dev@wazirx.com) | 
+| WRX | WRX-ED1 | [✅Yes](https://bscscan.com/address/0x2a459DD33f05Ed8EA9584505Cf04698BE5654e6d) |  |  |  | 
 | XRP | XRP-BF2 | [✅Yes](https://bscscan.com/address/0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE) | [Binance Research](https://research.binance.com/en/projects/xrp)  |  | [Product@binance.com](mailto:Product@binance.com) | 
 | XTZ | XTZ-F7A | [✅Yes](https://bscscan.com/address/0x16939ef78684453bfDFb47825F8a5F714f12623a) | [Binance Research](https://research.binance.com/en/projects/tezos)  |  | [Product@binance.com](mailto:Product@binance.com) | 
 | XVS | XVS-795 | [✅Yes](https://bscscan.com/address/0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63) | [Binance Research](https://research.binance.com/en/projects/venus) [Github](https://github.com/VenusProtocol/Venus-Protocol)  | [https://venus.io/](https://venus.io/) |  | 
 | YFI | YFI-1A4 | [✅Yes](https://bscscan.com/address/0x88f1A5ae2A3BF98AEAF342D26B30a79438c9142e) | [Binance Research](https://research.binance.com/en/projects/yearnfinance)  |  | [Product@binance.com](mailto:Product@binance.com) | 
-| YFII | YFII-061 | [✅Yes](https://bscscan.com/address/0x7F70642d88cf1C4a3a7abb072B53B929b653edA5) | [Binance Research](https://research.binance.com/en/projects/dfimoney)  |  | [Product@binance.com](mailto:Product@binance.com) | 
+| YFII | YFII-061 | [✅Yes](https://bscscan.com/address/0x7F70642d88cf1C4a3a7abb072B53B929b653edA5) |  |  |  | 
 | ZEC | ZEC-93E | [✅Yes](https://bscscan.com/address/0x1Ba42e5193dfA8B03D15dd1B86a3113bbBEF8Eeb) | [Binance Research](https://research.binance.com/en/projects/zcash)  |  | [Product@binance.com](mailto:Product@binance.com) | 
 | ZIL | ZIL-BB2 | [✅Yes](https://bscscan.com/address/0xb86AbCb37C3A4B64f74f59301AFF131a1BEcC787) |  |  |  | 
 | ABCD | ABCD-5D8 | ⚠️No |  |  |  |
@@ -156,7 +156,7 @@ the bound assets.
 | BZNT | BZNT-464 | ⚠️No |  | [https://bezant.io/](https://bezant.io/) |  |
 | CBS | CBS-690 | ⚠️No |  |  |  |
 | CCCX | CCCX-10D | ⚠️No |  |  |  |
-| CHZ | CHZ-ECD | ⚠️No | [Twitter]( https://twitter.com/chiliz) [Telegram](https://t.me/chiliz_io) [Medium]( https://medium.com/chiliz) [Binance Research](https://research.binance.com/projects/chiliz)  | [https://www.chiliz.com](https://www.chiliz.com) |  |
+| CHZ | CHZ-ECD | ⚠️No |  |  |  |
 | CLDRA | CLDRA-475 | ⚠️No |  |  |  |
 | CMDAO | CMDAO-8A6 | ⚠️No |  |  |  |
 | CNNS | CNNS-E16 | ⚠️No |  |  |  |
@@ -195,7 +195,7 @@ the bound assets.
 | FOR | FOR-997 | ⚠️No |  |  |  |
 | FRM | FRM-DE7 | ⚠️No | [Medium](http://medium.ferrum.network) [Twitter](http://twitter.ferrum.network) [Facebook](http://facebook.ferrum.network) [Coinmarketcap](http://cmc.ferrum.network) [Youtube](http://youtube.ferrum.network) [Reddit](http://reddit.ferrum.network) [Binance Info](https://info.binance.com/en/currencies/frm)  | [https://ferrum.network/](https://ferrum.network/) | [info@ferrum.network](mailto:info@ferrum.network) |
 | FSN | FSN-E14 | ⚠️No |  |  |  |
-| FTM | FTM-A64 | ⚠️No | [Twitter](https://twitter.com/FantomFDN) [Reddit](https://www.reddit.com/r/FantomFoundation/) [Medium](https://medium.com/fantomfoundation) [Telegram](https://t.me/Fantom_English)  | [ https://fantom.foundation]( https://fantom.foundation) |  |
+| FTM | FTM-A64 | ⚠️No |  |  |  |
 | FTT | FTT-F11 | ⚠️No |  |  |  |
 | GMAT | GMAT-FC8 | ⚠️No | [Telegram](https://t.me/gowithmi_en) [Medium](https://medium.com/@gowithmigl) [Twitter](https://twitter.com/GoWithMi_GL) [Facebook](https://www.facebook.com/gowithmi.fans) [Coinmarketcap](https://coinmarketcap.com/currencies/gowithmi/) [Instagram](https://www.instagram.com/gowithmi.id/) [Youtube](https://www.youtube.com/c/GoWithMi) [Github](https://github.com/GoWithMi)  | [https://www.gowithmi.com/](https://www.gowithmi.com/) | [biz@gowithmi.com](mailto:biz@gowithmi.com) |
 | GMNG | GMNG-F3E | ⚠️No |  |  |  |
@@ -230,7 +230,7 @@ the bound assets.
 | LIT | LIT-099 | ⚠️No |  |  |  |
 | LOKI | LOKI-6A9 | ⚠️No |  |  |  |
 | LYFE | LYFE-6AB | ⚠️No | [Telegram](https://t.me/lyfeofficial) [Instagram](https://www.instagram.com/lyfe.health/) [Medium](https://medium.com/@lyfehealth) [Youtube](https://www.youtube.com/channel/UCUQFj9mpVjP0M2yGWeR3wMg) [Twitter](https://twitter.com/lyfehealthofc) [Facebook](https://facebook.com/lyfecommunity) [Linkedin](https://www.linkedin.com/company/lyfehealth)  | [https://lyfe.health/](https://lyfe.health/) | [cs@lyfe.health](mailto:cs@lyfe.health) |
-| MATIC | MATIC-84A | ⚠️No | [Binance Research](https://research.binance.com/en/projects/matic-network)  |  |  |
+| MATIC | MATIC-84A | ⚠️No |  |  |  |
 | MBALL | MBALL-936 | ⚠️No |  |  |  |
 | MBL | MBL-2D2 | ⚠️No |  |  |  |
 | MCASH | MCASH-869 | ⚠️No | [Telegram](https://t.me/mcashchain) [Medium](https://medium.com/@mcashchain) [Twitter](https://twitter.com/@mcashchain) [Facebook](https://www.facebook.com/mcashchain) [Coinmarketcap](https://coinmarketcap.com/currencies/mcashchain/)  | [https://mcash.network](https://mcash.network) | [contact@mcash.network](mailto:contact@mcash.network) |
@@ -258,7 +258,7 @@ the bound assets.
 | PFIO | PFIO-7D0 | ⚠️No |  |  |  |
 | PHV | PHV-4A1 | ⚠️No |  |  |  |
 | PIBNB | PIBNB-43C | ⚠️No |  |  |  |
-| PLG | PLG-D8D | ⚠️No | [Twitter](https://twitter.com/Pledgecamp) [Telegram](https://t.me/pledgecamp) [Medium](https://medium.com/pledgecamp)  | [https://pledgecamp.com/](https://pledgecamp.com/) |  |
+| PLG | PLG-D8D | ⚠️No |  |  |  |
 | PLMT | PLMT-CB5 | ⚠️No |  |  |  |
 | POPB | POPB-400 | ⚠️No |  |  |  |
 | PPE | PPE-942 | ⚠️No |  |  |  |
@@ -267,8 +267,8 @@ the bound assets.
 | PROM | PROM-BB3 | ⚠️No |  |  |  |
 | PRTUS | PRTUS-95B | ⚠️No |  |  |  |
 | PSG | PSG-CEE | ⚠️No |  |  |  |
-| PVT | PVT-554 | ⚠️No | [Telegram](https://t.me/pivotglobal) [Twitter](https://twitter.com/pivot_pvt) [Binance Info](https://info.binance.com/en/currencies/pivot-token)  | [https://www.pivot.one](https://www.pivot.one) | [support@pivot.one](mailto:support@pivot.one) |
-| PYN | PYN-C37 | ⚠️No | [Telegram](https://t.me/paycent) [Medium](https://medium.com/@paycent) [Twitter](https://twitter.com/@PaycentGlobal) [Facebook](https://www.facebook.com/paycent.sg) [Coinmarketcap](https://coinmarketcap.com/currencies/paycent/)  | [https://paycent.com/](https://paycent.com/) | [support@paycent.com](mailto:support@paycent.com) |
+| PVT | PVT-554 | ⚠️No |  |  |  |
+| PYN | PYN-C37 | ⚠️No |  |  |  |
 | QARK | QARK-FCE | ⚠️No |  |  |  |
 | QBC | QBC-ADA | ⚠️No |  |  |  |
 | QBX | QBX-38C | ⚠️No |  |  |  |
@@ -291,7 +291,7 @@ the bound assets.
 | RPTT | RPTT-B83 | ⚠️No |  |  |  |
 | RTGE | RTGE-715 | ⚠️No |  |  |  |
 | RUNE | RUNE-67C | ⚠️No |  |  |  |
-| RUNE | RUNE-B1A | ⚠️No |  | [https://thorchain.org](https://thorchain.org) |  |
+| RUNE | RUNE-B1A | ⚠️No |  |  |  |
 | RVID | RVID-807 | ⚠️No |  |  |  |
 | SBC | SBC-5D4 | ⚠️No |  |  |  |
 | SCK | SCK-268 | ⚠️No |  |  |  |
@@ -301,11 +301,11 @@ the bound assets.
 | SETSU | SETSU-559 | ⚠️No |  |  |  |
 | SHE | SHE-0FA | ⚠️No |  |  |  |
 | SIMT | SIMT-E65 | ⚠️No |  |  |  |
-| SLV | SLV-986 | ⚠️No | [Telegram](https://t.me/silverwayotc) [Medium](https://medium.com/silverwayplatform) [Binance Info](https://info.binance.com/en/currencies/silverway) [Twitter](https://twitter.com/silverwayotc) [Coinmarketcap](https://coinmarketcap.com/currencies/silverway/)  | [https://silverway.io](https://silverway.io) | [sergey@silverway.io](mailto:sergey@silverway.io) |
+| SLV | SLV-986 | ⚠️No |  |  |  |
 | SNDD | SNDD-384 | ⚠️No |  |  |  |
 | SOLEN | SOLEN-263 | ⚠️No |  |  |  |
 | SPIN | SPIN-9DD | ⚠️No |  |  |  |
-| SPNDB | SPNDB-916 | ⚠️No | [Twitter](https://twitter.com/SpendFoundation) [Facebook](https://facebook.com/SpendFoundation) [Telegram](https://t.me/SpendChat) [Reddit](https://reddit.com/r/Spend) [Instagram](https://www.instagram.com/SpendCard/) [Medium](https://medium.com/spend)  | [https://spendcoin.org](https://spendcoin.org) |  |
+| SPNDB | SPNDB-916 | ⚠️No |  |  |  |
 | SPOOL | SPOOL-1F0 | ⚠️No |  |  |  |
 | SPTIX | SPTIX-826 | ⚠️No |  |  |  |
 | STIPS | STIPS-14F | ⚠️No |  |  |  |
@@ -314,61 +314,61 @@ the bound assets.
 | SWIPE.B | SWIPE.B-DC0 | ⚠️No |  |  |  |
 | SWZL | SWZL-E0C | ⚠️No |  |  |  |
 | SYNDA | SYNDA-4FA | ⚠️No |  |  |  |
-| TAUDB | TAUDB-888 | ⚠️No | [Reddit](https://www.reddit.com/r/TrustToken/) [Github](https://github.com/TrustToken) [Linkedin](https://www.linkedin.com/company/trusttoken/) [Medium](https://blog.trusttoken.com) [Telegram](https://t.me/joinchat/HihkMkTja1gIyBRM1J1_vg) [Twitter](https://twitter.com/TrustToken)  | [https://trusttoken.com](https://trusttoken.com) | [exchange-support@trusttoken.com](mailto:exchange-support@trusttoken.com) |
-| TBC | TBC-3A7 | ⚠️No | [Telegram](https://t.me/joinchat/AAAAAFKdWltCBS0pf0ETiQ) [Instagram](https://www.instagram.com/tbcc_labs/) [Twitter](https://twitter.com/LabsTbcc) [Facebook](https://www.facebook.com/TBCC-Labs-112734580490523/)  | [https://tbccwallet.com/](https://tbccwallet.com/) | [wallet@tbccwallet.com](mailto:wallet@tbccwallet.com) |
-| TCADB | TCADB-888 | ⚠️No | [Reddit](https://www.reddit.com/r/TrustToken/) [Github](https://github.com/TrustToken) [Linkedin](https://www.linkedin.com/company/trusttoken/) [Medium](https://blog.trusttoken.com) [Telegram](https://t.me/joinchat/HihkMkTja1gIyBRM1J1_vg) [Twitter](https://twitter.com/TrustToken)  | [https://trusttoken.com](https://trusttoken.com) | [exchange-support@trusttoken.com](mailto:exchange-support@trusttoken.com) |
+| TAUDB | TAUDB-888 | ⚠️No |  |  |  |
+| TBC | TBC-3A7 | ⚠️No |  |  |  |
+| TCADB | TCADB-888 | ⚠️No |  |  |  |
 | TED | TED-A85 | ⚠️No |  |  |  |
-| TGBPB | TGBPB-888 | ⚠️No | [Reddit](https://www.reddit.com/r/TrustToken/) [Github](https://github.com/TrustToken) [Linkedin](https://www.linkedin.com/company/trusttoken/) [Medium](https://blog.trusttoken.com) [Telegram](https://t.me/joinchat/HihkMkTja1gIyBRM1J1_vg) [Twitter](https://twitter.com/TrustToken)  | [https://trusttoken.com](https://trusttoken.com) | [exchange-support@trusttoken.com](mailto:exchange-support@trusttoken.com) |
+| TGBPB | TGBPB-888 | ⚠️No |  |  |  |
 | TGEBI | TGEBI-61C | ⚠️No |  |  |  |
-| THKDB | THKDB-888 | ⚠️No | [Reddit](https://www.reddit.com/r/TrustToken/) [Github](https://github.com/TrustToken) [Linkedin](https://www.linkedin.com/company/trusttoken/) [Medium](https://blog.trusttoken.com) [Telegram](https://t.me/joinchat/HihkMkTja1gIyBRM1J1_vg) [Twitter](https://twitter.com/TrustToken)  | [https://trusttoken.com](https://trusttoken.com) | [exchange-support@trusttoken.com](mailto:exchange-support@trusttoken.com) |
+| THKDB | THKDB-888 | ⚠️No |  |  |  |
 | TM2 | TM2-0C4 | ⚠️No |  |  |  |
 | TMCO | TMCO-88A | ⚠️No |  |  |  |
 | TMPO | TMPO-449 | ⚠️No |  |  |  |
 | TMSR | TMSR-B34 | ⚠️No |  |  |  |
-| TOMOB | TOMOB-4BC | ⚠️No | [Telegram](https://t.me/tomochain) [Reddit](https://www.reddit.com/r/Tomochain/) [Medium](https://medium.com/tomochain) [Youtube](https://www.youtube.com/channel/UCXZ2rmjM84qS80RCj6vQ1gw) [Twitter](https://twitter.com/TomoChainANN) [Facebook](https://www.facebook.com/tomochainofficial/) [Coinmarketcap](https://coinmarketcap.com/currencies/tomochain/) [Binance Info](https://info.binance.com/en/currencies/tomochain) [Github](https://github.com/tomochain) [Binance Research](https://research.binance.com/en/projects/tomochain)  | [https://tomochain.com](https://tomochain.com) | [admin@tomochain.com](mailto:admin@tomochain.com) |
-| TOP | TOP-491 | ⚠️No | [Telegram](https://t.me/topnetwork_top) [Reddit](https://www.reddit.com/user/topnetwork_top) [Medium](https://medium.com/@topnetwork) [Youtube](https://www.youtube.com/channel/UCmqgnSFc6JoebcT3FJWSv-g?view_as=subscriber) [Twitter](https://twitter.com/topnetwork_top) [Facebook](https://www.facebook.com/topnetworktop)  | [https://www.topnetwork.org/](https://www.topnetwork.org/) | [contact@topnetwork.org](mailto:contact@topnetwork.org) |
+| TOMOB | TOMOB-4BC | ⚠️No |  |  |  |
+| TOP | TOP-491 | ⚠️No |  |  |  |
 | TREI | TREI-477 | ⚠️No |  |  |  |
 | TRET | TRET-805 | ⚠️No |  |  |  |
-| TROY | TROY-9B8 | ⚠️No | [Telegram](https://t.me/troytrade_official) [Medium](https://medium.com/troy-trade) [Youtube](https://www.youtube.com/channel/UCKwLClDMSYXqkV9517OQdaA) [Twitter](https://twitter.com/troytrade) [Binance Research](https://research.binance.com/en/projects/troy)  | [https://troytrade.com/](https://troytrade.com/) | [business@troytrade.com](mailto:business@troytrade.com) |
+| TROY | TROY-9B8 | ⚠️No |  |  |  |
 | TRUE | TRUE-D84 | ⚠️No |  |  |  |
-| TRXB | TRXB-2E6 | ⚠️No | [Telegram](https://t.me/tronnetworkEN) [Reddit](https://www.reddit.com/r/Tronix/) [Medium](https://medium.com/tron-foundation) [Youtube](https://www.youtube.com/channel/UC5OPOGRq02iK-0T9sKse_kA) [Twitter](https://twitter.com/Tronfoundation) [Facebook](https://www.facebook.com/tronfoundation)  | [https://tron.network/](https://tron.network/) | [service@tron.network](mailto:service@tron.network) |
+| TRXB | TRXB-2E6 | ⚠️No |  |  |  |
 | TSDA | TSDA-FE5 | ⚠️No |  |  |  |
 | TSTINTG | TSTINTG-155 | ⚠️No |  |  |  |
 | TUN | TUN-058 | ⚠️No |  |  |  |
-| TUSDB | TUSDB-888 | ⚠️No | [Coinmarketcap](https://coinmarketcap.com/currencies/trueusd/) [Reddit](https://www.reddit.com/r/TrustToken/) [Github](https://github.com/TrustToken) [Linkedin](https://www.linkedin.com/company/trusttoken/) [Medium](https://blog.trusttoken.com) [Telegram](https://t.me/joinchat/HihkMkTja1gIyBRM1J1_vg) [Twitter](https://twitter.com/TrustToken) [Binance Research](https://research.binance.com/en/projects/trueusd)  | [https://trusttoken.com](https://trusttoken.com) | [exchange-support@trusttoken.com](mailto:exchange-support@trusttoken.com) |
+| TUSDB | TUSDB-888 | ⚠️No |  |  |  |
 | UATLA | UATLA-8B9 | ⚠️No |  |  |  |
 | UBETS | UBETS-068 | ⚠️No |  |  |  |
 | UCOQ | UCOQ-087 | ⚠️No |  |  |  |
 | UGAS | UGAS-B0C | ⚠️No |  |  |  |
-| UND | UND-EBC | ⚠️No | [Twitter](https://twitter.com/unificationUND) [Medium]( https://medium.com/unificationfoundation) [Youtube](https://www.youtube.com/channel/UCUrnvYlnrchkeIFBx4LzPGA) [Telegram](https://t.me/unificationfoundation)  | [http://www.unification.com](http://www.unification.com) |  |
-| UPX | UPX-F3E | ⚠️No | [Telegram](https://t.me/udapcommunity) [Medium](https://medium.com/udap) [Github](https://github.com/udap) [Twitter](https://twitter.com/udapfoundation) [Facebook](https://www.facebook.com/udapfoundation) [Linkedin](https://www.linkedin.com/company/udap/) [Youtube](https://www.youtube.com/channel/UCDl000RbiE5ywU7x2igWWQg)  | [https://www.udap.io/](https://www.udap.io/) | [info@udap.io](mailto:info@udap.io) |
-| USDH | USDH-5B5 | ⚠️No | [Twitter](https://twitter.com/thehonestnode) [Telegram](https://t.me/theHonestNode) [Facebook](https://www.facebook.com/thehonestnode) [Medium](https://medium.com/@honestnode123) [Reddit](https://www.reddit.com/r/HonestNode) [Instagram](https://www.instagram.com/thehonestnode) [Linkedin](https://www.linkedin.com/company/honestnode)  | [https://www.honestcoin.io](https://www.honestcoin.io) | [contact@honestnode.io](mailto:contact@honestnode.io) |
-| USDSB | USDSB-1AC | ⚠️No | [Facebook](https://www.facebook.com/stablycoin) [Twitter](https://twitter.com/stablycoin) [Medium](https://medium.com/stably-blog) [Instagram](https://www.instagram.com/stableusd/)  | [https://www.stably.io](https://www.stably.io) |  |
+| UND | UND-EBC | ⚠️No |  |  |  |
+| UPX | UPX-F3E | ⚠️No |  |  |  |
+| USDH | USDH-5B5 | ⚠️No |  |  |  |
+| USDSB | USDSB-1AC | ⚠️No |  |  |  |
 | UTEY | UTEY-3C5 | ⚠️No |  |  |  |
 | UTU | UTU-159 | ⚠️No |  |  |  |
 | UUBI | UUBI-E6F | ⚠️No |  |  |  |
 | UUU | UUU-35C | ⚠️No |  |  |  |
 | UWEAL | UWEAL-87C | ⚠️No |  |  |  |
 | VDX | VDX-A17 | ⚠️No |  |  |  |
-| VIDT | VIDT-F53 | ⚠️No | [Telegram](https://t.me/vidtoken) [Reddit](https://www.reddit.com/r/VIDT) [Medium](https://medium.com/@pim_vee) [Youtube](https://www.youtube.com/channel/UCh6xfbjMUeYFUO-2O_wRSBA/videos) [Twitter](https://twitter.com/v_id_blockchain) [Github](https://github.com/V-ID/V-ID-Token) [Coinmarketcap](https://coinmarketcap.com/currencies/v-id/) [Linkedin](https://www.linkedin.com/company/v-id/) [Binance Research](https://research.binance.com/en/projects/vidt)  | [https://about.v-id.org/token](https://about.v-id.org/token) | [service@v-id.org](mailto:service@v-id.org) |
-| VNDC | VNDC-DB9 | ⚠️No | [Telegram](https://t.me/vndcvietnam) [Medium](https://medium.com/vndc-ltd) [Twitter](https://twitter.com/Vndcstable) [Facebook](https://www.facebook.com/vndc.io) [Github](https://github.com/vndc-it)  | [https://vndc.io/](https://vndc.io/) | [hi@vndc.io](mailto:hi@vndc.io) |
-| VRAB | VRAB-B56 | ⚠️No | [Telegram](http://t.me/verasitychat) [Twitter](https://twitter.com/verasitytech) [Facebook](https://facebook.com/verasitytech)  | [https://verasity.io](https://verasity.io) |  |
+| VIDT | VIDT-F53 | ⚠️No |  |  |  |
+| VNDC | VNDC-DB9 | ⚠️No |  |  |  |
+| VRAB | VRAB-B56 | ⚠️No |  |  |  |
 | WGR | WGR-D3D | ⚠️No |  |  |  |
-| WICC | WICC-01D | ⚠️No | [Telegram](https://t.me/wiccofficial) [Facebook](https://www.facebook.com/waykichainofficial) [Reddit](https://www.reddit.com/r/WICCProject/) [Medium](https://medium.com/@waykichainwicc) [Youtube]( https://www.youtube.com/channel/UCjudZhgPcAX74LVxi23kKvg) [Twitter](https://twitter.com/wayki_chain) [Coinmarketcap](https://coinmarketcap.com/zh/currencies/waykichain/) [Binance Info](https://info.binance.com/en/currencies/waykichain) [Linkedin](https://www.linkedin.com/company/waykichain%E7%BB%B4%E5%9F%BA%E9%93%BE/) [Github](https://github.com/WaykiChain/WaykiChain)  | [https://www.waykichain.com/](https://www.waykichain.com/) | [biz@waykichainhk.com](mailto:biz@waykichainhk.com) |
-| WINB | WINB-41F | ⚠️No | [Telegram](https://t.me/WINk_org_official) [Medium](https://medium.com/@winkfoundation) [Twitter](https://twitter.com/winkorg) [Binance Research](https://research.binance.com/en/projects/wink)  | [https://www.wink.org/#/](https://www.wink.org/#/) | [pr@wink.org](mailto:pr@wink.org) |
-| WISH | WISH-2D5 | ⚠️No | [Twitter](https://twitter.com/mywishplatform) [Telegram](https://t.me/MyWish_platform)  | [https://mywish.io/](https://mywish.io/) |  |
+| WICC | WICC-01D | ⚠️No |  |  |  |
+| WINB | WINB-41F | ⚠️No |  |  |  |
+| WISH | WISH-2D5 | ⚠️No |  |  |  |
 | WOOPX | WOOPX-9C4 | ⚠️No |  |  |  |
 | XBASE | XBASE-CD2 | ⚠️No |  |  |  |
 | XIO | XIO-B05 | ⚠️No |  |  |  |
-| XNS | XNS-760 | ⚠️No | [Twitter](https://twitter.com/xeonbit) [Facebook](https://www.facebook.com/xeonbit) [Telegram](https://t.me/xeonbitgroup) [Discord](https://discordapp.com/invite/HYcJPFG) [Youtube](https://www.youtube.com/channel/UCn04eVg2x_j7BjuSoV1mC0g) [Medium](https://medium.com/@xeonbit) [Reddit](https://www.reddit.com/r/Xeonbit/) [Linkedin](https://www.linkedin.com/company/xeonbit/)  | [https://xeonbit.com/](https://xeonbit.com/) |  |
-| XRPBEAR | XRPBEAR-00B | ⚠️No | [Telegram](https://t.me/FTX_Official)  | [https://ftx.com/](https://ftx.com/) |  |
-| XRPBULL | XRPBULL-E7C | ⚠️No | [Telegram](https://t.me/FTX_Official)  | [https://ftx.com/](https://ftx.com/) |  |
+| XNS | XNS-760 | ⚠️No |  |  |  |
+| XRPBEAR | XRPBEAR-00B | ⚠️No |  |  |  |
+| XRPBULL | XRPBULL-E7C | ⚠️No |  |  |  |
 | XWG | XWG-478 | ⚠️No |  |  |  |
 | YEE | YEE-EAE | ⚠️No |  |  |  |
 | YELUM | YELUM-0B7 | ⚠️No |  |  |  |
 | YETI | YETI-3F7 | ⚠️No |  |  |  |
 | ZDPB | ZDPB-C37 | ⚠️No |  |  |  |
-| ZEBI | ZEBI-84F | ⚠️No | [Telegram](https://t.me/ZebiData) [Linkedin](https://www.linkedin.com/company/zebidata) [Reddit](https://www.reddit.com/r/Zebidataindia/) [Medium](https://medium.com/@Zebidata) [Youtube](https://www.youtube.com/channel/UCrEFyjIGGznac_8nj9uhu2Q) [Twitter](https://twitter.com/ZebidataIndia) [Facebook](https://www.facebook.com/ZebidataIndia/) [Github](https://github.com/zebidata)  | [https://zebi.io/](https://zebi.io/) | [info@zebi.co](mailto:info@zebi.co) |
+| ZEBI | ZEBI-84F | ⚠️No |  |  |  |
 | ZED | ZED-A89 | ⚠️No |  |  |  |
 | ZIEA | ZIEA-C04 | ⚠️No |  |  |  |
 | ZPAY | ZPAY-29A | ⚠️No |  |  |  |
