@@ -27,19 +27,19 @@ the bound assets.
 | ADA | ADA-9F4 | [✅Yes](https://bscscan.com/address/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47) |  |  |  | 
 | ALPACA | ALPACA-405 | [✅Yes](https://bscscan.com/address/0x8F0528cE5eF7B51152A59745bEfDD91D97091d2F) |  |  |  | 
 | ANKR | ANKR-E97 | [✅Yes](https://bscscan.com/address/0xf307910A4c7bbc79691fD374889b36d8531B08e3) |  |  |  | 
-| ARN | ARN-71B | [✅Yes](https://bscscan.com/address/0xBA5F11b16B155792Cf3B2E6880E8706859A8AEB6) | [Telegram](https://t.me/aeronaero) [Reddit](https://www.reddit.com/r/AeronAero/) [Medium](https://medium.com/@aeronaero) [Youtube](https://www.youtube.com/channel/UC5kHSnnbz8epwZOqVPci98w) [Twitter](https://twitter.com/aeron_aero) [Facebook](https://www.facebook.com/aeronpublic) [Coinmarketcap](https://coinmarketcap.com/currencies/aeron) [Binance Info](https://info.binance.com/en/currencies/aeron) [Github](https://github.com/aeronaero/aeron) [Binance Research](https://research.binance.com/en/projects/aeron)  | [https://aeron.aero](https://aeron.aero) | [info@aeron.aero](mailto:info@aeron.aero) | 
-| ATOM | ATOM-596 | [✅Yes](https://bscscan.com/address/0x0Eb3a705fc54725037CC9e008bDede697f62F335) | [Binance Research](https://research.binance.com/en/projects/cosmos-network)  |  | [Product@binance.com](mailto:Product@binance.com) | 
-| AVA | AVA-645 | [✅Yes](https://bscscan.com/address/0x13616F44Ba82D63c8C0DC3Ff843D36a8ec1c05a9) | [Twitter](https://twitter.com/travalacom/) [Facebook](https://www.facebook.com/travala/) [Reddit](https://www.reddit.com/r/Travala/) [Instagram](https://www.instagram.com/travalacom/) [Coinmarketcap](https://coinmarketcap.com/currencies/travala/) [Binance Info](https://info.binance.com/en/currencies/travala) [Youtube](https://www.youtube.com/channel/UCUyqRraSM2nNpJp86yYodmw) [Telegram](https://t.me/travala/) [Linkedin](https://www.linkedin.com/company/travalacom/) [Github](https://github.com/travala/)  | [https://www.travala.com/](https://www.travala.com/) |  | 
+| ARN | ARN-71B | [✅Yes](https://bscscan.com/address/0xBA5F11b16B155792Cf3B2E6880E8706859A8AEB6) |  |  |  | 
+| ATOM | ATOM-596 | [✅Yes](https://bscscan.com/address/0x0Eb3a705fc54725037CC9e008bDede697f62F335) |  |  |  | 
+| AVA | AVA-645 | [✅Yes](https://bscscan.com/address/0x13616F44Ba82D63c8C0DC3Ff843D36a8ec1c05a9) |  |  |  | 
 | BAKE | BAKE-5E0 | [✅Yes](https://bscscan.com/address/0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5) |  |  |  | 
 | BAND | BAND-34B | [✅Yes](https://bscscan.com/address/0xAD6cAEb32CD2c308980a548bD0Bc5AA4306c6c18) |  |  |  | 
-| BAT | BAT-07A | [✅Yes](https://bscscan.com/address/0x101d82428437127bF1608F699CD651e6Abf9766E) | [Binance Research](https://research.binance.com/en/projects/basic-attention-token)  |  | [Product@binance.com](mailto:Product@binance.com) | 
-| BCH | BCH-1FD | [✅Yes](https://bscscan.com/address/0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf) | [Binance Research](https://research.binance.com/en/projects/bitcoin-cash)  |  | [Product@binance.com](mailto:Product@binance.com) | 
-| BCHA | BCHA-959 | [✅Yes](https://bscscan.com/address/0xD475c9c934DCD6d5f1cAC530585aa5ba14185b92) | [Binance Research](https://research.binance.com/en/projects/bitcoin-cash)  |  | [Product@binance.com](mailto:Product@binance.com) | 
+| BAT | BAT-07A | [✅Yes](https://bscscan.com/address/0x101d82428437127bF1608F699CD651e6Abf9766E) |  |  |  | 
+| BCH | BCH-1FD | [✅Yes](https://bscscan.com/address/0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf) |  |  |  | 
+| BCHA | BCHA-959 | [✅Yes](https://bscscan.com/address/0xD475c9c934DCD6d5f1cAC530585aa5ba14185b92) |  |  |  | 
 | BCHA | BCHA-A6A | [✅Yes](https://bscscan.com/address/0xDd3c817354E3855ef2B52D15ad2244793c50385A) |  |  |  | 
-| BEL | BEL-D85 | [✅Yes](https://bscscan.com/address/0x8443f091997f06a61670B735ED92734F5628692F) | [Binance Research](https://research.binance.com/en/projects/bella)  |  | [Product@binance.com](mailto:Product@binance.com) | 
+| BEL | BEL-D85 | [✅Yes](https://bscscan.com/address/0x8443f091997f06a61670B735ED92734F5628692F) |  |  |  | 
 | BELT | BELT-5A3 | [✅Yes](https://bscscan.com/address/0xE0e514c71282b6f4e823703a39374Cf58dc3eA4f) |  |  |  | 
 | BETH | BETH-654 | [✅Yes](https://bscscan.com/address/0x250632378E573c6Be1AC2f97Fcdf00515d0Aa91B) |  |  |  | 
-| BIDR | BIDR-0E9 | [✅Yes](https://bscscan.com/address/0x9A2f5556e9A637e8fBcE886d8e3cf8b316a1D8a2) | [Binance Research](https://research.binance.com/en/projects/binance-idr)  | [www.tokocrypto.com](www.tokocrypto.com) |  | 
+| BIDR | BIDR-0E9 | [✅Yes](https://bscscan.com/address/0x9A2f5556e9A637e8fBcE886d8e3cf8b316a1D8a2) |  |  |  | 
 | BIFI | BIFI-290 | [✅Yes](https://bscscan.com/address/0xCa3F508B8e4Dd382eE878A314789373D80A5190A) |  |  |  | 
 | BTCB | BTCB-1DE | [✅Yes](https://bscscan.com/address/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c) |  |  |  | 
 | BTCST | BTCST-C2E | [✅Yes](https://bscscan.com/address/0x78650B139471520656b9E7aA7A5e9276814a38e9) |  |  |  | 
@@ -47,54 +47,54 @@ the bound assets.
 | BURGER | BURGER-33A | [✅Yes](https://bscscan.com/address/0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f) |  |  |  | 
 | BUSD | BUSD-BD1 | [✅Yes](https://bscscan.com/address/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56) |  |  |  | 
 | BXD | BXD-745 | [✅Yes](https://bscscan.com/address/0xcae74533e8605a87564982c03f63Ce44177f1277) |  |  |  | 
-| CAKE | CAKE-435 | [✅Yes](https://bscscan.com/address/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82) | [Telegram](https://t.me/pancakeswap) [Medium](https://pancakeswap.medium.com/) [Binance Research](https://research.binance.com/en/projects/pancakeswap) [Twitter](https://twitter.com/pancakeswap) [Github](https://github.com/pancakeswap)  | [https://pancakeswap.finance/](https://pancakeswap.finance/) |  | 
+| CAKE | CAKE-435 | [✅Yes](https://bscscan.com/address/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82) |  |  |  | 
 | CAN | CAN-677 | [✅Yes](https://bscscan.com/address/0x007EA5C0Ea75a8DF45D288a4debdD5bb633F9e56) |  |  |  | 
 | CAS | CAS-167 | [✅Yes](https://bscscan.com/address/0x780207B8C0Fdc32cF60E957415bFa1f2d4d9718c) |  |  |  | 
 | CBIX | CBIX-3C9 | [✅Yes](https://bscscan.com/address/0x34681C1035F97E1eDcccec5f142e02FF81a3A230) |  |  |  | 
 | CBM | CBM-4B2 | [✅Yes](https://bscscan.com/address/0x61a97C4914C43f8BD98D01a99418E826C80AfAdC) |  |  |  | 
 | COCOS | COCOS-CED | [✅Yes](https://bscscan.com/address/0xAb301DaE71f5B386C566f484e636Aee60318F12F) |  |  |  | 
-| COMP | COMP-DEE | [✅Yes](https://bscscan.com/address/0x52CE071Bd9b1C4B00A0b92D298c512478CaD67e8) | [Binance Research](https://research.binance.com/en/projects/compound)  |  | [Product@binance.com](mailto:Product@binance.com) | 
-| COS | COS-2E4 | [✅Yes](https://bscscan.com/address/0x96Dd399F9c3AFda1F194182F71600F1B65946501) | [Telegram](https://t.me/ContentosGlobal) [Reddit](https://www.reddit.com/r/Contentosofficial/) [Medium](https://medium.com/contentos-io) [Youtube](https://www.youtube.com/channel/UCTHA9CYW8UxZOSjCFckMX6A) [Twitter](https://twitter.com/contentosio) [Facebook](https://www.facebook.com/ContentosOfficial) [Coinmarketcap](https://coinmarketcap.com/currencies/contentos/) [Binance Info](https://info.binance.com/en/currencies/contentos) [Github](https://github.com/coschain) [Binance Research](https://research.binance.com/en/projects/contentos)  | [https://www.contentos.io](https://www.contentos.io) | [service@contentos.io](mailto:service@contentos.io) | 
+| COMP | COMP-DEE | [✅Yes](https://bscscan.com/address/0x52CE071Bd9b1C4B00A0b92D298c512478CaD67e8) |  |  |  | 
+| COS | COS-2E4 | [✅Yes](https://bscscan.com/address/0x96Dd399F9c3AFda1F194182F71600F1B65946501) |  |  |  | 
 | CTK | CTK-EB8 | [✅Yes](https://bscscan.com/address/0xA8c2B8eec3d368C0253ad3dae65a5F2BBB89c929) |  |  |  | 
 | DAI | DAI-D75 | [✅Yes](https://bscscan.com/address/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3) |  |  |  | 
 | DARC | DARC-087 | [✅Yes](https://bscscan.com/address/0x8ebC361536094fD5B4FFB8521E31900614C9F55D) |  |  |  | 
 | DFY | DFY-EA0 | [✅Yes](https://bscscan.com/address/0xD98560689C6e748DC37bc410B4d3096B1aA3D8C2) |  |  |  | 
 | DOGE | DOGE-B67 | [✅Yes](https://bscscan.com/address/0xbA2aE424d960c26247Dd6c32edC70B295c744C43) |  |  |  | 
-| DOS | DOS-120 | [✅Yes](https://bscscan.com/address/0xDc0f0a5719c39764b011eDd02811BD228296887C) | [Twitter](https://twitter.com/DosNetwork) [Medium](https://medium.com/dos-network) [Telegram](https://t.me/dosnetwork_en)  | [https://dos.network/](https://dos.network/) |  | 
+| DOS | DOS-120 | [✅Yes](https://bscscan.com/address/0xDc0f0a5719c39764b011eDd02811BD228296887C) |  |  |  | 
 | DOT | DOT-64C | [✅Yes](https://bscscan.com/address/0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402) |  |  |  | 
 | EGLD | EGLD-745 | [✅Yes](https://bscscan.com/address/0xbF7c81FFF98BbE61B40Ed186e4AfD6DDd01337fe) |  |  |  | 
 | ELF | ELF-D72 | [✅Yes](https://bscscan.com/address/0xa3f020a5C92e15be13CAF0Ee5C95cF79585EeCC9) |  |  |  | 
 | EOS | EOS-CDD | [✅Yes](https://bscscan.com/address/0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6) |  |  |  | 
 | EPS | EPS-458 | [✅Yes](https://bscscan.com/address/0xA7f552078dcC247C2684336020c03648500C6d9F) |  |  |  | 
-| EQL | EQL-586 | [✅Yes](https://bscscan.com/address/0x5C7e71f46e49Cf816f9863461EEB36e3bc8E3B51) |  | [https://equal.tech/](https://equal.tech/) |  | 
+| EQL | EQL-586 | [✅Yes](https://bscscan.com/address/0x5C7e71f46e49Cf816f9863461EEB36e3bc8E3B51) |  |  |  | 
 | ETC | ETC-758 | [✅Yes](https://bscscan.com/address/0x3d6545b08693daE087E957cb1180ee38B9e3c25E) |  |  |  | 
 | ETH | ETH-1C9 | [✅Yes](https://bscscan.com/address/0x2170Ed0880ac9A755fd29B2688956BD959F933F8) |  |  |  | 
 | ETHW | ETHW-478 | [✅Yes](https://bscscan.com/address/0x302cD8973bE5CA2334B4ff7e7b01BA41455559b3) |  |  |  | 
-| FIL | FIL-E2C | [✅Yes](https://bscscan.com/address/0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153) | [Binance Research](https://research.binance.com/en/projects/filecoin)  |  | [Product@binance.com](mailto:Product@binance.com) | 
+| FIL | FIL-E2C | [✅Yes](https://bscscan.com/address/0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153) |  |  |  | 
 | FINE | FINE-74B | [✅Yes](https://bscscan.com/address/0x4e6415a5727ea08aAE4580057187923aeC331227) |  |  |  | 
 | GIV | GIV-94E | [✅Yes](https://bscscan.com/address/0xE49b84771470A87F4D9544685ea0F0517933B2B4) |  |  |  | 
-| INJ | INJ-FAE | [✅Yes](https://bscscan.com/address/0xa2B726B1145A4773F68593CF171187d8EBe4d495) | [Binance Research](https://research.binance.com/en/projects/injective-protocol)  |  | [Product@binance.com](mailto:Product@binance.com) | 
-| IOTX | IOTX-0ED | [✅Yes](https://bscscan.com/address/0x9678E42ceBEb63F23197D726B29b1CB20d0064E5) | [Binance Research](https://research.binance.com/en/projects/iotx)  |  | [Product@binance.com](mailto:Product@binance.com) | 
-| IRIS | IRIS-D88 | [✅Yes](https://bscscan.com/address/0x05C50a62b0b87bE1fFB1Cf3b77d9eDBa834ef6f7) | [Telegram](https://t.me/irisnetwork) [Medium](https://medium.com/irisnet-blog) [Twitter](https://twitter.com/irisnetwork) [Coinmarketcap](https://coinmarketcap.com/currencies/irisnet/) [Binance Info](https://info.binance.com/en/currencies/irisnet) [Github](https://github.com/irisnet) [Binance Research](https://research.binance.com/en/projects/irisnet)  | [https://www.irisnet.org/](https://www.irisnet.org/) | [operation@irisnet.org](mailto:operation@irisnet.org) | 
-| LINK | LINK-AAD | [✅Yes](https://bscscan.com/address/0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD) | [Binance Research](https://research.binance.com/en/projects/chainlink)  |  | [Product@binance.com](mailto:Product@binance.com) | 
+| INJ | INJ-FAE | [✅Yes](https://bscscan.com/address/0xa2B726B1145A4773F68593CF171187d8EBe4d495) |  |  |  | 
+| IOTX | IOTX-0ED | [✅Yes](https://bscscan.com/address/0x9678E42ceBEb63F23197D726B29b1CB20d0064E5) |  |  |  | 
+| IRIS | IRIS-D88 | [✅Yes](https://bscscan.com/address/0x05C50a62b0b87bE1fFB1Cf3b77d9eDBa834ef6f7) |  |  |  | 
+| LINK | LINK-AAD | [✅Yes](https://bscscan.com/address/0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD) |  |  |  | 
 | LTC | LTC-F07 | [✅Yes](https://bscscan.com/address/0x4338665CBB7B2485A8855A139b75D5e34AB0DB94) |  |  |  | 
-| LTO | LTO-BDF | [✅Yes](https://bscscan.com/address/0x857B222Fc79e1cBBf8Ca5f78CB133d1b7CF34BBd) |  | [https://lto.network](https://lto.network) |  | 
-| MDT | MDT-14A | [✅Yes](https://bscscan.com/address/0x668DB7aa38eaC6B40c9D13dBE61361DC4c4611d1) | [Coinmarketcap](https://coinmarketcap.com/currencies/measurable-data-token/) [Binance Research](https://research.binance.com/en/projects/measurable-data-token) [Twitter](https://twitter.com/MeasurableData) [Telegram](https://t.me/measurabledata) [Medium](https://medium.com/measurabledata) [Github](https://github.com/measurabledatatoken) [Reddit](https://www.reddit.com/r/MeasurableDataToken/) [Youtube](https://www.youtube.com/channel/UCzm2b0lFWk9OApwvRZGb1Fw) [Linkedin](https://www.linkedin.com/company/measurable/about/)  | [https://mdt.io/](https://mdt.io/) | [token@mdt.io](mailto:token@mdt.io) | 
-| MITH | MITH-C76 | [✅Yes](https://bscscan.com/address/0x304aA6B8215eaF3EABB2149ffC842205676FCe36) | [Facebook](https://www.facebook.com/MithrilOfficial/) [Twitter](https://twitter.com/MithrilOfficial) [Medium](https://medium.com/mithriltoken) [Reddit](https://www.reddit.com/r/MithrilToken)  | [https://mith.io/](https://mith.io/) |  | 
+| LTO | LTO-BDF | [✅Yes](https://bscscan.com/address/0x857B222Fc79e1cBBf8Ca5f78CB133d1b7CF34BBd) |  |  |  | 
+| MDT | MDT-14A | [✅Yes](https://bscscan.com/address/0x668DB7aa38eaC6B40c9D13dBE61361DC4c4611d1) |  |  |  | 
+| MITH | MITH-C76 | [✅Yes](https://bscscan.com/address/0x304aA6B8215eaF3EABB2149ffC842205676FCe36) |  |  |  | 
 | MKR | MKR-F04 | [✅Yes](https://bscscan.com/address/0x5f0Da599BB2ccCfcf6Fdfd7D81743B6020864350) |  |  |  | 
-| NEAR | NEAR-4FD | [✅Yes](https://bscscan.com/address/0x1Fa4a73a3F0133f0025378af00236f3aBDEE5D63) | [Binance Research](https://research.binance.com/en/projects/near-protocol)  |  | [Product@binance.com](mailto:Product@binance.com) | 
-| NOW | NOW-E68 | [✅Yes](https://bscscan.com/address/0x02533c1e9AbBAfE5816ed8B27c0D22a8731075E0) | [Twitter](https://twitter.com/ChangeNOW_io) [Facebook](https://www.facebook.com/ChangeNOW.io/) [Reddit](https://www.reddit.com/user/ChangeNow_io) [Medium](https://medium.com/@changenow_io) [Youtube](https://www.youtube.com/channel/UCpnkFY4kom0q3RJnhHiuMnw) [Telegram](https://t.me/NOWtoken_Bounty)  | [https://changenow.io/](https://changenow.io/) |  | 
+| NEAR | NEAR-4FD | [✅Yes](https://bscscan.com/address/0x1Fa4a73a3F0133f0025378af00236f3aBDEE5D63) |  |  |  | 
+| NOW | NOW-E68 | [✅Yes](https://bscscan.com/address/0x02533c1e9AbBAfE5816ed8B27c0D22a8731075E0) |  |  |  | 
 | NPXB | NPXB-1E8 | [✅Yes](https://bscscan.com/address/0xd8CB4C2369db13C94c90C7fD3bEbc9757900Ee6b) |  |  |  | 
 | NPXSXEM | NPXSXEM-89C | [✅Yes](https://bscscan.com/address/0xFb1f2FeB4A48087D25FDF13Cc98272F3Efca0939) |  |  |  | 
-| ONT | ONT-33D | [✅Yes](https://bscscan.com/address/0xFd7B3A77848f1C2D67E05E54d78d174a0C850335) | [Binance Research](https://research.binance.com/en/projects/ontology)  |  | [Product@binance.com](mailto:Product@binance.com) | 
+| ONT | ONT-33D | [✅Yes](https://bscscan.com/address/0xFd7B3A77848f1C2D67E05E54d78d174a0C850335) |  |  |  | 
 | PAX | PAX-F25 | [✅Yes](https://bscscan.com/address/0xb7F8Cd00C5A06c0537E2aBfF0b58033d02e5E094) |  |  |  | 
 | PAXG | PAXG-9B2 | [✅Yes](https://bscscan.com/address/0x7950865a9140cB519342433146Ed5b40c6F210f7) |  |  |  | 
-| PHB | PHB-2DF | [✅Yes](https://bscscan.com/address/0xDff88A0A43271344B760b58a35076bf05524195c) | [Twitter](https://twitter.com/red_pulse_china)  | [https://www.redpulse.com/](https://www.redpulse.com/) |  | 
+| PHB | PHB-2DF | [✅Yes](https://bscscan.com/address/0xDff88A0A43271344B760b58a35076bf05524195c) |  |  |  | 
 | PROPEL | PROPEL-6D9 | [✅Yes](https://bscscan.com/address/0x9B44Df3318972bE845d83f961735609137C4C23c) |  |  |  | 
-| RAVEN | RAVEN-F66 | [✅Yes](https://bscscan.com/address/0xcD7C5025753a49f1881B31C48caA7C517Bb46308) | [Twitter](https://twitter.com/raven_protocol) [Facebook](https://facebook.com/ravenprotocol) [Telegram](https://t.me/ravenprotocol) [Medium](https://medium.com/ravenprotocol)  | [https://www.ravenprotocol.com](https://www.ravenprotocol.com) |  | 
+| RAVEN | RAVEN-F66 | [✅Yes](https://bscscan.com/address/0xcD7C5025753a49f1881B31C48caA7C517Bb46308) |  |  |  | 
 | RNO | RNO-14E | [✅Yes](https://bscscan.com/address/0x92A0d359C87b8F3fe383AA0a42C19D1A2aFE6Be0) |  |  |  | 
 | SHR | SHR-DB6 | [✅Yes](https://bscscan.com/address/0x5fb4968fC85868DF3aD2d6e59883a10570f01D18) |  |  |  | 
-| SNX | SNX-C26 | [✅Yes](https://bscscan.com/address/0x9Ac983826058b8a9C7Aa1C9171441191232E8404) | [Binance Research](https://research.binance.com/en/projects/synthetix)  |  | [Product@binance.com](mailto:Product@binance.com) | 
+| SNX | SNX-C26 | [✅Yes](https://bscscan.com/address/0x9Ac983826058b8a9C7Aa1C9171441191232E8404) |  |  |  | 
 | SPARTA | SPARTA-7F3 | [✅Yes](https://bscscan.com/address/0xE4Ae305ebE1AbE663f261Bc00534067C80ad677C) |  |  |  | 
 | SUSHI | SUSHI-134 | [✅Yes](https://bscscan.com/address/0x947950BcC74888a40Ffa2593C5798F11Fc9124C4) |  |  |  | 
 | SWINGBY | SWINGBY-888 | [✅Yes](https://bscscan.com/address/0x71DE20e0C4616E7fcBfDD3f875d568492cBE4739) |  |  |  | 
@@ -107,18 +107,18 @@ the bound assets.
 | UNFI | UNFI-FB7 | [✅Yes](https://bscscan.com/address/0xA7cA04F7602cD7A939d3E4827F442f48cF8E9daD) |  |  |  | 
 | UNI | UNI-DD8 | [✅Yes](https://bscscan.com/address/0xBf5140A22578168FD562DCcF235E5D43A02ce9B1) |  |  |  | 
 | USDC | USDC-CD2 | [✅Yes](https://bscscan.com/address/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d) |  |  |  | 
-| USDT | USDT-6D8 | [✅Yes](https://bscscan.com/address/0x55d398326f99059fF775485246999027B3197955) | [Binance Research](https://research.binance.com/en/projects/usd-tether)  |  | [Product@binance.com](mailto:Product@binance.com) | 
+| USDT | USDT-6D8 | [✅Yes](https://bscscan.com/address/0x55d398326f99059fF775485246999027B3197955) |  |  |  | 
 | UST | UST-290 | [✅Yes](https://bscscan.com/address/0x23396cF899Ca06c4472205fC903bDB4de249D6fC) |  |  |  | 
 | VAI | VAI-B2D | [✅Yes](https://bscscan.com/address/0x4BD17003473389A42DAF6a0a729f6Fdb328BbBd7) |  |  |  | 
 | VOTE | VOTE-FD4 | [✅Yes](https://bscscan.com/address/0x6B574beb42bFa9701Ab383fAF0EE02CDBEca3Ea5) |  |  |  | 
 | WNAV | WNAV-D49 | [✅Yes](https://bscscan.com/address/0xBFEf6cCFC830D3BaCA4F6766a0d4AaA242Ca9F3D) |  |  |  | 
-| WRX | WRX-ED1 | [✅Yes](https://bscscan.com/address/0x2a459DD33f05Ed8EA9584505Cf04698BE5654e6d) |  |  |  | 
+| WRX | WRX-ED1 | [✅Yes](https://bscscan.com/address/0x2a459DD33f05Ed8EA9584505Cf04698BE5654e6d) | [Telegram](https://t.me/wazirx) [Medium](https://medium.com/wazirx) [Youtube](https://youtube.com/wazirx) [Twitter](https://twitter.com/wazirxindia) [Facebook](https://www.facebook.com/wazirx) [Coinmarketcap](https://coinmarketcap.com/exchanges/wazirx) [Linkedin](https://www.linkedin.com/company/wazirx) [Github](https://github.com/wazirx) [Binance Research](https://research.binance.com/en/projects/wazirx)  | [https://wazirx.com](https://wazirx.com) | [dev@wazirx.com](mailto:dev@wazirx.com) | 
 | XRP | XRP-BF2 | [✅Yes](https://bscscan.com/address/0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE) |  |  |  | 
-| XTZ | XTZ-F7A | [✅Yes](https://bscscan.com/address/0x16939ef78684453bfDFb47825F8a5F714f12623a) | [Binance Research](https://research.binance.com/en/projects/tezos)  |  | [Product@binance.com](mailto:Product@binance.com) | 
-| XVS | XVS-795 | [✅Yes](https://bscscan.com/address/0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63) | [Binance Research](https://research.binance.com/en/projects/venus) [Github](https://github.com/VenusProtocol/Venus-Protocol)  | [https://venus.io/](https://venus.io/) |  | 
+| XTZ | XTZ-F7A | [✅Yes](https://bscscan.com/address/0x16939ef78684453bfDFb47825F8a5F714f12623a) |  |  |  | 
+| XVS | XVS-795 | [✅Yes](https://bscscan.com/address/0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63) |  |  |  | 
 | YFI | YFI-1A4 | [✅Yes](https://bscscan.com/address/0x88f1A5ae2A3BF98AEAF342D26B30a79438c9142e) |  |  |  | 
 | YFII | YFII-061 | [✅Yes](https://bscscan.com/address/0x7F70642d88cf1C4a3a7abb072B53B929b653edA5) |  |  |  | 
-| ZEC | ZEC-93E | [✅Yes](https://bscscan.com/address/0x1Ba42e5193dfA8B03D15dd1B86a3113bbBEF8Eeb) | [Binance Research](https://research.binance.com/en/projects/zcash)  |  | [Product@binance.com](mailto:Product@binance.com) | 
+| ZEC | ZEC-93E | [✅Yes](https://bscscan.com/address/0x1Ba42e5193dfA8B03D15dd1B86a3113bbBEF8Eeb) |  |  |  | 
 | ZIL | ZIL-BB2 | [✅Yes](https://bscscan.com/address/0xb86AbCb37C3A4B64f74f59301AFF131a1BEcC787) |  |  |  | 
 | ABCD | ABCD-5D8 | ⚠️No |  |  |  |
 | ADI | ADI-6BB | ⚠️No |  |  |  |
@@ -130,11 +130,11 @@ the bound assets.
 | ATP | ATP-38C | ⚠️No |  |  |  |
 | AURO | AURO-39C | ⚠️No |  |  |  |
 | AWC | AWC-8B2 | ⚠️No |  |  |  |
-| AWC | AWC-986 | ⚠️No | [Twitter](https://twitter.com/atomicwallet) [Reddit](https://www.reddit.com/r/atomicwallet/) [Medium](https://medium.com/atomic-wallet) [Facebook](https://www.facebook.com/atomicwallet) [Youtube]( https://www.youtube.com/channel/UCLMnUt6BBtA67eic1vRGF3g) [Telegram](https://t.me/atomicwalletchat)  | [ https://atomicwallet.io/]( https://atomicwallet.io/) |  |
+| AWC | AWC-986 | ⚠️No |  |  |  |
 | AXPR | AXPR-777 | ⚠️No |  |  |  |
 | BAW | BAW-DFB | ⚠️No |  |  |  |
 | BCPT | BCPT-95A | ⚠️No |  |  |  |
-| BEAR | BEAR-14C | ⚠️No | [Telegram](https://t.me/FTX_Official)  | [https://ftx.com/](https://ftx.com/) |  |
+| BEAR | BEAR-14C | ⚠️No |  |  |  |
 | BET | BET-844 | ⚠️No |  |  |  |
 | BETX | BETX-A0C | ⚠️No |  |  |  |
 | BGBP | BGBP-CF3 | ⚠️No |  |  |  |
@@ -142,7 +142,7 @@ the bound assets.
 | BIEN | BIEN-FE2 | ⚠️No |  |  |  |
 | BINR | BINR-821 | ⚠️No |  |  |  |
 | BKBT | BKBT-3A6 | ⚠️No |  |  |  |
-| BKRW | BKRW-AB7 | ⚠️No | [Binance Research](https://research.binance.com/en/projects/binance-krw)  | [https://www.binance.com/en/support/articles/360040135172](https://www.binance.com/en/support/articles/360040135172) | [bkrw@binance.kr](mailto:bkrw@binance.kr) |
+| BKRW | BKRW-AB7 | ⚠️No |  |  |  |
 | BLINK | BLINK-9C6 | ⚠️No |  |  |  |
 | BNTYS | BNTYS-9BB | ⚠️No |  |  |  |
 | BOLT | BOLT-4C6 | ⚠️No |  |  |  |
@@ -150,10 +150,10 @@ the bound assets.
 | BQTX | BQTX-235 | ⚠️No |  |  |  |
 | BSEZE | BSEZE-F1E | ⚠️No |  |  |  |
 | BST2 | BST2-2F2 | ⚠️No |  |  |  |
-| BTTB | BTTB-D31 | ⚠️No | [Telegram](https://t.me/BitTorrentToken) [Medium](https://medium.com/bittorrent) [Discord](https://discordapp.com/invite/JPUTmw2) [Twitter](https://twitter.com/BitTorrent) [Facebook](https://www.facebook.com/bittorrent) [Binance Research](https://research.binance.com/en/projects/bittorrent)  | [https://www.bittorrent.com/btt/](https://www.bittorrent.com/btt/) | [bizdev@bittorrent.com](mailto:bizdev@bittorrent.com) |
-| BULL | BULL-BE4 | ⚠️No | [Telegram](https://t.me/FTX_Official)  | [https://ftx.com/](https://ftx.com/) |  |
+| BTTB | BTTB-D31 | ⚠️No |  |  |  |
+| BULL | BULL-BE4 | ⚠️No |  |  |  |
 | BVND | BVND-244 | ⚠️No |  |  |  |
-| BZNT | BZNT-464 | ⚠️No |  | [https://bezant.io/](https://bezant.io/) |  |
+| BZNT | BZNT-464 | ⚠️No |  |  |  |
 | CBS | CBS-690 | ⚠️No |  |  |  |
 | CCCX | CCCX-10D | ⚠️No |  |  |  |
 | CHZ | CHZ-ECD | ⚠️No |  |  |  |
@@ -163,7 +163,7 @@ the bound assets.
 | COTI | COTI-CBB | ⚠️No |  |  |  |
 | COVA | COVA-218 | ⚠️No |  |  |  |
 | CPC | CPC-FED | ⚠️No |  |  |  |
-| CRPT | CRPT-8C9 | ⚠️No | [Telegram](https://t.me/crypterium) [Medium](https://medium.com/@crypterium) [Youtube](https://www.youtube.com/crypterium) [Coinmarketcap](https://coinmarketcap.com/currencies/crpt/) [Twitter](https://twitter.com/crypterium) [Facebook](https://fb.com/crypterium.org) [Linkedin](https://www.linkedin.com/company/crypterium)  | [https://crypterium.com](https://crypterium.com) | [info@crypterium.com](mailto:info@crypterium.com) |
+| CRPT | CRPT-8C9 | ⚠️No |  |  |  |
 | CSM | CSM-734 | ⚠️No |  |  |  |
 | CSPAH | CSPAH-7D4 | ⚠️No |  |  |  |
 | CUSD | CUSD-24B | ⚠️No |  |  |  |
@@ -171,29 +171,29 @@ the bound assets.
 | DBKS | DBKS-D63 | ⚠️No |  |  |  |
 | DCAY | DCAY-F1A | ⚠️No |  |  |  |
 | DEEM | DEEM-F59 | ⚠️No |  |  |  |
-| DEEP | DEEP-9D3 | ⚠️No | [Telegram](https://tele.me/telegram/groups/deepcloud_ai) [Reddit](https://www.reddit.com/r/DeepCloudPlatform/comments/a1659c/deepcloud_ai/) [Medium](https://medium.com/@DeepCloud_AI) [Youtube](https://www.youtube.com/channel/UCsFttSUlJuYbDvAiED_MlRg) [Twitter](https://twitter.com/deepcloud_ai) [Facebook](https://www.facebook.com/DeepCloudOfficial/)  | [https://www.deepcloudai.com/](https://www.deepcloudai.com/) | [enquiries@deepcloudai.com](mailto:enquiries@deepcloudai.com) |
-| DEFI | DEFI-FA5 | ⚠️No | [Twitter](https://twitter.com/DefiLab) [Facebook](https://www.facebook.com/Definetwork) [Telegram](https://t.me/DefiDFT)  | [https://www.defilab.com](https://www.defilab.com) |  |
+| DEEP | DEEP-9D3 | ⚠️No |  |  |  |
+| DEFI | DEFI-FA5 | ⚠️No |  |  |  |
 | DIAL | DIAL-AF8 | ⚠️No |  |  |  |
 | DOLX | DOLX-15D | ⚠️No |  |  |  |
-| DREP | DREP-7D2 | ⚠️No |  | [https://www.drep.org](https://www.drep.org) |  |
+| DREP | DREP-7D2 | ⚠️No |  |  |  |
 | DUSK | DUSK-45E | ⚠️No |  |  |  |
 | DVDO | DVDO-509 | ⚠️No |  |  |  |
-| EBST | EBST-783 | ⚠️No |  | [https://eboost.fun](https://eboost.fun) |  |
+| EBST | EBST-783 | ⚠️No |  |  |  |
 | ECO | ECO-083 | ⚠️No |  |  |  |
 | EEO | EEO-32C | ⚠️No |  |  |  |
 | EET | EET-45C | ⚠️No |  |  |  |
-| ENTRP | ENTRP-C8D | ⚠️No | [Medium](https://medium.com/the-hut34-project/) [Twitter](https://twitter.com/hut34project) [Telegram](https://t.me/hut34)  | [https://www.hut34.io](https://www.hut34.io) |  |
-| EOSBEAR | EOSBEAR-721 | ⚠️No | [Telegram](https://t.me/FTX_Official)  | [https://ftx.com/](https://ftx.com/) |  |
-| EOSBULL | EOSBULL-F0D | ⚠️No | [Telegram](https://t.me/FTX_Official)  | [https://ftx.com/](https://ftx.com/) |  |
+| ENTRP | ENTRP-C8D | ⚠️No |  |  |  |
+| EOSBEAR | EOSBEAR-721 | ⚠️No |  |  |  |
+| EOSBULL | EOSBULL-F0D | ⚠️No |  |  |  |
 | ERD | ERD-D06 | ⚠️No |  |  |  |
 | ERIES | ERIES-9F5 | ⚠️No |  |  |  |
 | ETHBEAR | ETHBEAR-B2B | ⚠️No |  |  |  |
-| ETHBULL | ETHBULL-D33 | ⚠️No | [Telegram](https://t.me/FTX_Official)  | [https://ftx.com/](https://ftx.com/) |  |
+| ETHBULL | ETHBULL-D33 | ⚠️No |  |  |  |
 | EVT | EVT-49B | ⚠️No |  |  |  |
 | EXT | EXT-6A8 | ⚠️No |  |  |  |
 | FLYR | FLYR-514 | ⚠️No |  |  |  |
 | FOR | FOR-997 | ⚠️No |  |  |  |
-| FRM | FRM-DE7 | ⚠️No | [Medium](http://medium.ferrum.network) [Twitter](http://twitter.ferrum.network) [Facebook](http://facebook.ferrum.network) [Coinmarketcap](http://cmc.ferrum.network) [Youtube](http://youtube.ferrum.network) [Reddit](http://reddit.ferrum.network) [Binance Info](https://info.binance.com/en/currencies/frm)  | [https://ferrum.network/](https://ferrum.network/) | [info@ferrum.network](mailto:info@ferrum.network) |
+| FRM | FRM-DE7 | ⚠️No |  |  |  |
 | FSN | FSN-E14 | ⚠️No |  |  |  |
 | FTM | FTM-A64 | ⚠️No |  |  |  |
 | FTT | FTT-F11 | ⚠️No |  |  |  |
@@ -206,13 +206,13 @@ the bound assets.
 | GRGB | GRGB-9B9 | ⚠️No |  |  |  |
 | GRGP | GRGP-2EF | ⚠️No |  |  |  |
 | GSPI | GSPI-ADB | ⚠️No |  |  |  |
-| GTEX | GTEX-71B | ⚠️No | [Telegram](https://t.me/gtexgame) [Reddit](https://www.reddit.com/user/GTEXGame) [Youtube](https://www.youtube.com/channel/UCI2-yRphxoHEIEAOV7pwyDQ) [Twitter](https://twitter.com/GTEXGame) [Facebook](https://www.facebook.com/GTEXGame/) [Github](https://github.com/gtexgame)  | [https://gtexgame.io/](https://gtexgame.io/) | [info@gtexgame.io](mailto:info@gtexgame.io) |
-| GTO | GTO-908 | ⚠️No | [Telegram](https://t.me/GIFTOOfficial) [Facebook](https://www.facebook.com/gifto.io/) [Twitter](https://twitter.com/GIFTO_io) [Binance Research](https://research.binance.com/en/projects/gifto)  | [https://gifto.io/](https://gifto.io/) |  |
+| GTEX | GTEX-71B | ⚠️No |  |  |  |
+| GTO | GTO-908 | ⚠️No |  |  |  |
 | HEC | HEC-1A9 | ⚠️No |  |  |  |
 | HNST | HNST-3C9 | ⚠️No |  |  |  |
 | HUMNI | HUMNI-BE4 | ⚠️No |  |  |  |
-| HYN | HYN-F21 | ⚠️No | [Telegram](https://t.me/HyperionOfficialHYN) [Medium](https://medium.com/@hyperionsgoffical) [Youtube](https://www.youtube.com/channel/UCJTt-dNx7i7_azkyeEn7Yag) [Coinmarketcap](https://coinmarketcap.com/currencies/hyperion/) [Twitter](https://twitter.com/HyperionHYN?lang=en) [Facebook](https://www.facebook.com/Hyperion-854025704797996/)  | [https://www.hyn.space](https://www.hyn.space) | [info@hyn.space](mailto:info@hyn.space) |
-| IDRTB | IDRTB-178 | ⚠️No | [Github](https://github.com/rupiah-token/) [Linkedin](https://www.linkedin.com/company/rupiah-token/) [Medium](https://medium.com/rupiahtoken-blog/) [Telegram](https://t.me/joinchat/IecbjxEy6xVf1dyZhGZxpw) [Twitter](https://twitter.com/RupiahTokenIDRT)  | [https://rupiahtoken.com](https://rupiahtoken.com) | [support@rupiahtoken.com](mailto:support@rupiahtoken.com) |
+| HYN | HYN-F21 | ⚠️No |  |  |  |
+| IDRTB | IDRTB-178 | ⚠️No |  |  |  |
 | IKU | IKU-416 | ⚠️No |  |  |  |
 | IMC | IMC-C52 | ⚠️No |  |  |  |
 | IOP | IOP-166 | ⚠️No |  |  |  |
@@ -220,7 +220,7 @@ the bound assets.
 | JUV | JUV-D0F | ⚠️No |  |  |  |
 | KAI | KAI-0C3 | ⚠️No |  |  |  |
 | KAT | KAT-7BB | ⚠️No |  |  |  |
-| KAVA | KAVA-10C | ⚠️No | [Telegram](https://t.me/kavalabs) [Medium](https://medium.com/kava-labs) [Youtube](https://www.youtube.com/channel/UChauw9EMD1DC-ny_cjoLs8A) [Twitter](https://twitter.com/kava_labs) [Github](https://github.com/kava-labs) [Linkedin](https://www.linkedin.com/company/kava-labs/about/) [Binance Research](https://research.binance.com/en/projects/kava)  | [https://kava.io/](https://kava.io/) | [hello@kava.io](mailto:hello@kava.io) |
+| KAVA | KAVA-10C | ⚠️No |  |  |  |
 | KICKS | KICKS-162 | ⚠️No |  |  |  |
 | KIT | KIT-052 | ⚠️No |  |  |  |
 | LAMB | LAMB-46C | ⚠️No |  |  |  |
@@ -233,7 +233,7 @@ the bound assets.
 | MATIC | MATIC-84A | ⚠️No |  |  |  |
 | MBALL | MBALL-936 | ⚠️No |  |  |  |
 | MBL | MBL-2D2 | ⚠️No |  |  |  |
-| MCASH | MCASH-869 | ⚠️No | [Telegram](https://t.me/mcashchain) [Medium](https://medium.com/@mcashchain) [Twitter](https://twitter.com/@mcashchain) [Facebook](https://www.facebook.com/mcashchain) [Coinmarketcap](https://coinmarketcap.com/currencies/mcashchain/)  | [https://mcash.network](https://mcash.network) | [contact@mcash.network](mailto:contact@mcash.network) |
+| MCASH | MCASH-869 | ⚠️No |  |  |  |
 | MCC | MCC-33B | ⚠️No |  |  |  |
 | MDAB | MDAB-D42 | ⚠️No |  |  |  |
 | MEDB | MEDB-87E | ⚠️No |  |  |  |
@@ -243,14 +243,14 @@ the bound assets.
 | MTBIT | MTBIT-C44 | ⚠️No |  |  |  |
 | MTV | MTV-4C6 | ⚠️No |  |  |  |
 | MTXLT | MTXLT-286 | ⚠️No |  |  |  |
-| MVL | MVL-7B0 | ⚠️No | [Telegram](https://t.me/mvlchain_kr) [Reddit](https://www.reddit.com/r/MVL/) [Medium](http://medium.com/@mvlchain) [Youtube](https://www.youtube.com/channel/UCWIwx5KcQIaf7Ti6piFhnKw) [Twitter](https://twitter.com/mvlchain) [Facebook](https://www.facebook.com/mvlchain/) [Github](https://github.com/mvlchain) [Coinmarketcap](https://coinmarketcap.com/currencies/mvl/)  | [https://mvlchain.io/](https://mvlchain.io/) | [support@mvlchain.io](mailto:support@mvlchain.io) |
+| MVL | MVL-7B0 | ⚠️No |  |  |  |
 | MXER | MXER-32E | ⚠️No |  |  |  |
 | MZK | MZK-2C7 | ⚠️No |  |  |  |
-| NEW | NEW-09E | ⚠️No | [Telegram](https://t.me/newtonproject) [Reddit](https://www.reddit.com/user/newtonproject) [Medium](https://medium.com/@newtonproject) [Youtube](https://www.youtube.com/channel/UCO3hbqzT5abDbVKzK5EQigg) [Twitter](https://twitter.com/newton_project) [Facebook](https://www.facebook.com/newtonproject) [Coinmarketcap](https://coinmarketcap.com/currencies/newton/) [Binance Research](https://research.binance.com/en/projects/newton)  | [https://www.newtonproject.org/](https://www.newtonproject.org/) | [contact@newtonproject.org](mailto:contact@newtonproject.org) |
-| NEXO | NEXO-A84 | ⚠️No | [Medium](https://medium.com/nexo) [Twitter](https://twitter.com/NexoFinance) [Facebook](https://www.facebook.com/NexoFinance) [Coinmarketcap](https://coinmarketcap.com/currencies/nexo/) [Youtube](https://www.youtube.com/nexofinance) [Reddit](https://www.reddit.com/r/Nexo/) [Binance Info](https://info.binance.com/en/currencies/nexo)  | [https://nexo.io/](https://nexo.io/) | [info@nexo.io](mailto:info@nexo.io) |
+| NEW | NEW-09E | ⚠️No |  |  |  |
+| NEXO | NEXO-A84 | ⚠️No |  |  |  |
 | NODE | NODE-F3A | ⚠️No |  |  |  |
 | NOIZB | NOIZB-878 | ⚠️No |  |  |  |
-| ONE | ONE-5F9 | ⚠️No | [Telegram](https://t.me/harmony_one) [Twitter](https://twitter.com/harmonyprotocol) [Facebook](https://www.facebook.com/harmonyoneprotocol/) [Medium](https://medium.com/harmony-one) [Youtube](https://harmony.one/youtube) [Github](https://github.com/harmony-one) [Binance Research](https://research.binance.com/en/projects/harmony)  | [https://harmony.one/](https://harmony.one/) |  |
+| ONE | ONE-5F9 | ⚠️No |  |  |  |
 | OWTX | OWTX-A6B | ⚠️No |  |  |  |
 | PALEO | PALEO-D1B | ⚠️No |  |  |  |
 | PALQI | PALQI-063 | ⚠️No |  |  |  |
@@ -258,7 +258,7 @@ the bound assets.
 | PFIO | PFIO-7D0 | ⚠️No |  |  |  |
 | PHV | PHV-4A1 | ⚠️No |  |  |  |
 | PIBNB | PIBNB-43C | ⚠️No |  |  |  |
-| PLG | PLG-D8D | ⚠️No | [Twitter](https://twitter.com/Pledgecamp) [Telegram](https://t.me/pledgecamp) [Medium](https://medium.com/pledgecamp)  | [https://pledgecamp.com/](https://pledgecamp.com/) |  |
+| PLG | PLG-D8D | ⚠️No |  |  |  |
 | PLMT | PLMT-CB5 | ⚠️No |  |  |  |
 | POPB | POPB-400 | ⚠️No |  |  |  |
 | PPE | PPE-942 | ⚠️No |  |  |  |
