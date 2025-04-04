@@ -267,7 +267,7 @@ the bound assets.
 | PROM | PROM-BB3 | ⚠️No |  |  |  |
 | PRTUS | PRTUS-95B | ⚠️No |  |  |  |
 | PSG | PSG-CEE | ⚠️No |  |  |  |
-| PVT | PVT-554 | ⚠️No |  |  |  |
+| PVT | PVT-554 | ⚠️No | [Telegram](https://t.me/pivotglobal) [Twitter](https://twitter.com/pivot_pvt) [Binance Info](https://info.binance.com/en/currencies/pivot-token)  | [https://www.pivot.one](https://www.pivot.one) | [support@pivot.one](mailto:support@pivot.one) |
 | PYN | PYN-C37 | ⚠️No |  |  |  |
 | QARK | QARK-FCE | ⚠️No |  |  |  |
 | QBC | QBC-ADA | ⚠️No |  |  |  |
