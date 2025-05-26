@@ -242,8 +242,8 @@ the bound assets.
 | MITX | MITX-CAA | ⚠️No | [Telegram](https://t.me/morpheuslabs) [Reddit](https://www.reddit.com/r/MorpheusLabs/) [Medium]( https://medium.com/@morpheuslabs_io) [Youtube](https://www.youtube.com/channel/UCBDcCbFiFDZOcfkGkAo-iLQ) [Twitter](https://twitter.com/morpheuslabs_io) [Facebook](www.facebook.com/morpheuslabs.io) [Coinmarketcap](https://coinmarketcap.com/currencies/morpheus-labs/) [Github](https://github.com/Morpheuslabs-io)  | [https://www.morpheuslabs.io](https://www.morpheuslabs.io) | [info@morpheuslabs.io](mailto:info@morpheuslabs.io) |
 | MTBIT | MTBIT-C44 | ⚠️No |  |  |  |
 | MTV | MTV-4C6 | ⚠️No |  |  |  |
-| MTXLT | MTXLT-286 | ⚠️No | [Telegram](https://t.me/tixlcurrency) [Discord](https://discord.gg/dzVzMdp) [Medium](https://medium.com/tixlcurrency) [Twitter](https://twitter.com/tixlcurrency) [Github](https://github.com/tixl) [Binance Info](https://info.binance.com/en/currencies/tixl) [Facebook](https://www.facebook.com/tixlcurrency) [Reddit](https://reddit.com/r/tixl) [Youtube](https://www.youtube.com/channel/UCo0U8FPLV9hqju-gSN2Nang)  | [https://tixl.me](https://tixl.me) | [mail@tixl.me](mailto:mail@tixl.me) |
-| MVL | MVL-7B0 | ⚠️No | [Telegram](https://t.me/mvlchain_kr) [Reddit](https://www.reddit.com/r/MVL/) [Medium](http://medium.com/@mvlchain) [Youtube](https://www.youtube.com/channel/UCWIwx5KcQIaf7Ti6piFhnKw) [Twitter](https://twitter.com/mvlchain) [Facebook](https://www.facebook.com/mvlchain/) [Github](https://github.com/mvlchain) [Coinmarketcap](https://coinmarketcap.com/currencies/mvl/)  | [https://mvlchain.io/](https://mvlchain.io/) | [support@mvlchain.io](mailto:support@mvlchain.io) |
+| MTXLT | MTXLT-286 | ⚠️No |  |  |  |
+| MVL | MVL-7B0 | ⚠️No |  |  |  |
 | MXER | MXER-32E | ⚠️No |  |  |  |
 | MZK | MZK-2C7 | ⚠️No |  |  |  |
 | NEW | NEW-09E | ⚠️No |  |  |  |
